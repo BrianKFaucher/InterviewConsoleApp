@@ -1,0 +1,22 @@
+{
+  "name": "InterviewConsoleApp",
+  "version": "0.2.0",
+  "description": "A console app for interview coding",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianKFaucher/InterviewConsoleApp"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Brian Faucher",
+  "license": "MIT"
+}
